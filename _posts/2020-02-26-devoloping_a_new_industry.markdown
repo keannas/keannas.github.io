@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Devoloping A New Industry"
-date:       2020-02-26 22:17:30 +0000
+title:      "Devoloping A New Skill"
+date:       2020-02-26 17:17:31 -0500
 permalink:  devoloping_a_new_industry
 ---
 
